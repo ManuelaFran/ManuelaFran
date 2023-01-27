@@ -15,7 +15,6 @@
 
 - :earth_americas: Estou aprendendo e realizando vários projetos utilizando stacks como: Javascript, Typescript, HTML, CSS, React, Node e outros.
 
-- 📫 Como chegar até mim: manuelaalves26@gmail.com
 <br>
 <br>
 
@@ -32,11 +31,11 @@
 
 <div>
 <a href="https://github.com/ManuelaFran">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <br>
 <br>
 <div>
 <a href="https://github.com/ManuelaFran">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaFran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaFran&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
