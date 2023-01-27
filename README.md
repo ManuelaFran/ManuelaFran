@@ -1,5 +1,11 @@
 # Olá, me chamo Manuela França!
 ## Seja muito bem-vinda e bem-vindo ao meu perfil GitHub.
+<br>
+
+![octocat-1674849765792](https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png)
+
+
+
 
 <div>
 <a href="https://instagram.com/manuelaalves" target="_blank"><img align='center' src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,7 +38,6 @@
 <div>
 <a href="https://github.com/ManuelaFran">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
-</div>
 <br>
 <br>
 <div>
