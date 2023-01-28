@@ -2,7 +2,7 @@
 ## Seja muito bem-vinda e bem-vindo ao meu perfil GitHub.
 <br>
 
-<img src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
+
 
 
 
@@ -16,12 +16,13 @@
 <br>
 <br>
 
+<img align='left' src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
+  
 - :recycle: Estou em transição de carreira. Indo de sólidas experiências na área de Recursos Humanos para a área de Tecnologia.
 
 - :mortar_board: Atualmente estou estudando Desenvolvimento Web na escola Trybe.
 
 - :earth_americas: Estou aprendendo e realizando vários projetos utilizando stacks como: Javascript, Typescript, HTML, CSS, React, Node e outros.
-
 <br>
 <br>
 
