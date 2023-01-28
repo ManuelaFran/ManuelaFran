@@ -27,7 +27,7 @@
 <br>
 <img align='left' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style='max-width: 100%;'/>
 <img align='left' src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style='max-width: 100%;'/>
-<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style='max-width: 100%;'/>
+<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style='max-width: 100%;'/><br>
 <br>
 <br>
 <br>
