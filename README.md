@@ -2,7 +2,6 @@
 ## Seja muito bem-vinda e bem-vindo ao meu perfil GitHub.
 <br>
 
-
 <div>
 <p align="left">
 <a href="mailto:manuelaalves26@gmail.com" target="blank"><img align="center" src="https://designportugal.net/wp-content/uploads/2013/04/Gmailiconequadrado.png" alt="" height="30" width="40"/></a>
