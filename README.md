@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/manuelafranca" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle-thumbnail.png" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/manuelaalves" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/792/947/png-transparent-instagram-logo-social-media-instagram-login-facebook-advertising-instagram-text-logo-magenta-thumbnail.png" alt="" height="30" width="40" /></a>
 </p>
+</div>
 <br>
 <br>
 
