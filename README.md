@@ -36,7 +36,7 @@
 <br>
   
 
-<div><img align='right' src="https://user-images.githubusercontent.com/95245210/215235348-9f68362e-ab7f-4cf6-a9a3-cce5f568087f.png" height="400">
+<div><img align='right' src="https://user-images.githubusercontent.com/95245210/215235348-9f68362e-ab7f-4cf6-a9a3-cce5f568087f.png" height="300">
 <a href="https://github.com/ManuelaFran">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
 <br>
