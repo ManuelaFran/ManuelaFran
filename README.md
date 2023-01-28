@@ -46,7 +46,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaFran&show_icons=true&theme=transparent&text_color=000000&include_all_commits=true&count_private=true"/>
 </div>
   
- <h3 align="left">Se conect comigo:</h3>
+ <h3 align="left">Se connect comigo:</h3>
 <p align="left">
 <a href="mailto:manuelaalves26@gmail.com" target="blank"><img align="center" src="https://designportugal.net/wp-content/uploads/2013/04/Gmailiconequadrado.png" alt="" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/manuelafranca" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle-thumbnail.png" alt="" height="30" width="40" /></a>
