@@ -14,17 +14,17 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
 
-- :recycle: Estou em transição de carreira. Indo de sólidas experiências na área de Recursos Humanos para a área de Tecnologia.
+* :recycle: Estou em transição de carreira. Indo de sólidas experiências na área de Recursos Humanos para a área de Tecnologia.
 
-- :revolving_hearts: Apaixonada por tecnologia e por empresas que contribuem com uma melhor interação digital. Acredito em ações que geram um impacto na                      vida das pessoas.
+* :revolving_hearts: Apaixonada por tecnologia e por empresas que contribuem com uma melhor interação digital. Acredito em ações que geram um impacto na                      vida das pessoas.
 
-- :mortar_board: Atualmente estou estudando Desenvolvimento Web na escola Trybe.
+* :mortar_board: Atualmente estou estudando Desenvolvimento Web na escola Trybe.
 
-- :key: Dentro do curso como etapas concluídas e aplicadas tenho o Fundamentos do Desenvolvimento Web, com stacks aprendidas e aplicadas em projetos: Linux, HTML, CSS, JavaScript, Testes Unitários e HOFS.
+* :key: Dentro do curso como etapas concluídas e aplicadas tenho o Fundamentos do Desenvolvimento Web, com stacks aprendidas e aplicadas em projetos: Linux, HTML, CSS, JavaScript, Testes Unitários e HOFS.
 
-- :door: Bem como o Front-end: JavaScript Assíncrono, React, Redux, Hooks. Todos com aplicações práticas em projetos.
+* :door: Bem como o Front-end: JavaScript Assíncrono, React, Redux, Hooks. Todos com aplicações práticas em projetos.
 
-- :dart: E no Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
+* :dart: E no Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
 <br>
 <br>
 <br>
