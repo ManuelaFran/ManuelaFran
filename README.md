@@ -16,9 +16,15 @@
   
 - :recycle: Estou em transição de carreira. Indo de sólidas experiências na área de Recursos Humanos para a área de Tecnologia.
 
+- :revolving_hearts: Apaixonada por tecnologia e por empresas que contribuem com uma melhor interação digital. Acredito em ações que geram um impacto na                      vida das pessoas.
+
 - :mortar_board: Atualmente estou estudando Desenvolvimento Web na escola Trybe.
 
-- :earth_americas: Estou aprendendo e realizando vários projetos utilizando stacks como: Javascript, Typescript, HTML, CSS, React, Node e outros.
+- :key: Dentro do curso como etapas concluídas e aplicadas tenho o Fundamentos do Desenvolvimento Web, com stacks aprendidas e aplicadas em projetos: Linux, HTML, CSS, JavaScript, Testes Unitários e HOFS.
+
+- :door: Bem como o Front-end: JavaScript Assíncrono, React, Redux, Hooks. Todos com aplicações práticas em projetos.
+
+- :dart: E no Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
 <br>
 <br>
 <br>
@@ -46,7 +52,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaFran&show_icons=true&theme=transparent&text_color=000000&include_all_commits=true&count_private=true"/>
 </div>
   
- <h3 align="left">Se connect comigo:</h3>
+ <h3 align="left">Connect-se comigo:</h3>
 <p align="left">
 <a href="mailto:manuelaalves26@gmail.com" target="blank"><img align="center" src="https://designportugal.net/wp-content/uploads/2013/04/Gmailiconequadrado.png" alt="" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/manuelafranca" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle-thumbnail.png" alt="" height="30" width="40" /></a>
