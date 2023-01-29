@@ -24,7 +24,7 @@
 
 * :door: Bem como o Front-end: JavaScript Assíncrono, React, Redux, Hooks. Todos com aplicações práticas em projetos.
 
-* :dart: E no Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
+* :dart: No Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
 <br>
 <br>
 <br>
