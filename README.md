@@ -2,15 +2,6 @@
 ## Seja muito bem-vinda e bem-vindo ao meu perfil GitHub.
 <br>
 
-<div>
-<p align="left">
-<a href="mailto:manuelaalves26@gmail.com" target="blank"><img align="center" src="https://designportugal.net/wp-content/uploads/2013/04/Gmailiconequadrado.png" alt="" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/manuelafranca" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle-thumbnail.png" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/manuelaalves" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/792/947/png-transparent-instagram-logo-social-media-instagram-login-facebook-advertising-instagram-text-logo-magenta-thumbnail.png" alt="" height="30" width="40" /></a>
-</p>
-</div>
-<br>
-<br>
 
 <img align='left' src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
   
@@ -26,6 +17,16 @@
 
 - :dart: E no Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
 <br>
+<br>
+<br>
+
+<div>
+<p align="left">
+<a href="mailto:manuelaalves26@gmail.com" target="blank"><img align="center" src="https://designportugal.net/wp-content/uploads/2013/04/Gmailiconequadrado.png" alt="" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/manuelafranca" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/329/312/png-transparent-in-logo-linkedin-computer-icons-social-media-professional-network-service-youtube-linkedin-miscellaneous-blue-angle-thumbnail.png" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/manuelaalves" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/792/947/png-transparent-instagram-logo-social-media-instagram-login-facebook-advertising-instagram-text-logo-magenta-thumbnail.png" alt="" height="30" width="40" /></a>
+</p>
+</div>
 <br>
 <br>
 
