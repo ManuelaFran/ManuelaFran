@@ -28,8 +28,6 @@
 
 * :dart: No Back-end: Docker, SQL, Node, Arquitetura de Software, TypeScript, POO, SOLID.
 <br>
-<br>
-<br>
 
 ***
 ## Ferramentas e Tecnologias
