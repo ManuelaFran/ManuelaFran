@@ -44,12 +44,12 @@
 
 <div><img align='right' src="https://user-images.githubusercontent.com/95245210/215235348-9f68362e-ab7f-4cf6-a9a3-cce5f568087f.png" height="300">
 <a href="https://github.com/ManuelaFran">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
 <br>
 <br>
 <div>
 <a href="https://github.com/ManuelaFran">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelaFran&show_icons=true&theme=transparent&text_color=000000&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManuelaFran&show_icons=true&theme=transparent&text_color=000000&include_all_commits=true&count_private=true"/>
 </div>
   
  <h3 align="left">Conecte-se comigo:</h3>
