@@ -1,8 +1,6 @@
 <div align='center'>
-<p>
 <h1>Olá, me chamo Manuela França!</h1>
 <h2>Desenvolvedora FullStack com energia e muita vontade de aprender e contribuir.</h2>
-</p>
 </div>
 
 
