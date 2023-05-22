@@ -26,7 +26,7 @@
 <br>
 <br>
 <br>
-<div><img align='right' src="https://github.com/ManuelaFran/ManuelaFran/assets/95245210/bbdc03d5-bad8-4401-b201-85abec4b16bd.png" height="500">
+<div><img align='right' src="https://github.com/ManuelaFran/ManuelaFran/assets/95245210/bbdc03d5-bad8-4401-b201-85abec4b16bd.png" height="400">
 <a href="https://github.com/ManuelaFran">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
 <br>
