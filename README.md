@@ -14,6 +14,7 @@
 </div>
 <br>
 <br>
+
 ***
 ## Ferramentas e Tecnologias
 <img align='left' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" style='max-width: 100%;'/><br>
@@ -25,7 +26,6 @@
 <br>
 <br>
 <br>
-
 <div><img align='right' src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
 <a href="https://github.com/ManuelaFran">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
