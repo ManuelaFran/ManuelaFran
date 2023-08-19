@@ -37,12 +37,13 @@ Formada em Desenvolvimento Web pela escola Trybe :woman_student:<br>
 <br>
 <img align='left' src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" style='max-width: 100%;'/>
 <img align='left' src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style='max-width: 100%;'/>
-<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/MongoDb-000?style=for-the-badge&logo=mongodb" style='max-width: 100%;'/>
+<img align='left' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style='max-width: 100%;'/>   <img align='left' src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" style='max-width: 100%;'/>
+<img align='left' src="https://img.shields.io/badge/MongoDb-000?style=for-the-badge&logo=mongodb" style='max-width: 100%;'/>
 <br>
 <br>
 <br>
 <br>
-<div><img align='right' src="https://user-images.githubusercontent.com/95245210/215235348-9f68362e-ab7f-4cf6-a9a3-cce5f568087f.png" height="400">
+<div><img align='right' src="https://user-images.githubusercontent.com/95245210/215235348-9f68362e-ab7f-4cf6-a9a3-cce5f568087f.png" height="300">
 <a href="https://github.com/ManuelaFran">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelaFran&layout=compact&langs_count=7&theme=transparent&text_color=000000"/>
 <br>
