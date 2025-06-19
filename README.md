@@ -3,7 +3,7 @@
 </div>
 
 
-## Seja muito bem-vinda e bem-vindo ao meu perfil GitHub.
+## Seja muito bem-vindo e bem-vinda ao meu perfil GitHub.
 <br>
 
 <div>
