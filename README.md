@@ -17,11 +17,11 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/95245210/215222803-6085af9c-7436-4cbe-97bd-e3d461ed5054.png" height="300">
 
-:construction:<br>
-:heavy_heart_exclamation:<br>
-:computer:<br>
-:octocat:<br>
-:woman_student:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
